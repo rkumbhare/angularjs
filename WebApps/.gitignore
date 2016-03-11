@@ -3,5 +3,4 @@ target
 webapps
 .settings/*
 !.settings/.jsdtscope
-/.project
-/.classpath
+
