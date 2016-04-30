@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<spring:url value="/resources/js/angular.js" var="angularJs" />
+<spring:url value="/resources/js/plugins/angular.js" var="angularJs" />
 <spring:url value="/resources/js/hello.js" var="helloJs" />
 <spring:url value="/resources/css/style.css" var="styleCss" />
 <script type="text/javascript" src="${angularJs}"></script>
